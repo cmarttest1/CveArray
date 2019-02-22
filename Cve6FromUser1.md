@@ -1,4 +1,4 @@
-*Important CVE*
+*Impartant CVE*
 
 Company: Test Company 1
 User: Test User 1
